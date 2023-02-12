@@ -1,0 +1,11 @@
+total 16
+drwxr-xr-x 2 root root  78 Feb  5 07:33 0x01-shell_permissions
+drwxr-xr-x 3 root root  57 Jan 28 12:49 alx-pre_course
+drwxr-xr-x 4 root root  61 Feb  5 10:35 alx-system_engineering-devops
+-rw-r--r-- 1 root root   0 Feb 10 23:38 check
+-rw-r--r-- 1 root root  65 Feb 10 22:27 file
+drwxr-xr-x 2 root root  26 Feb 10 14:46 files
+-rw-r--r-- 1 root root   0 Jan 28 12:39 git
+-rw-r--r-- 1 root root 114 Feb 10 23:09 letters
+-rw-r--r-- 1 root root   8 Feb 10 22:47 password
+-rw-r--r-- 1 root root   9 Feb 10 06:00 try
